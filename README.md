@@ -2,14 +2,13 @@
 
 # Project Name
 
-> Description the project.
+> In this project, we're implementing a "Hello Microverse" repository using basic HTML/CSS and install linters to test and clean up any errors in order to apply what we learned about HTML/CSS best practices and Linters as a Microverse student.
 
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- HTML/CSS
+- Linters
 
 ## Live Demo (if available)
 
@@ -18,33 +17,18 @@
 
 ## Getting Started
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
-
-
+1. First, we must clone the repository locally in the terminal using the "git clone" command.
+2. Then create a new branch in the terminal.
+3. After creating a new branch, we will create the index.html file and then open it in the bowser.
+4. Finally do the test using the linters commands.
 
 ## Authors
 
 👤 **Author1**
 
-- GitHub: (https://github.com/omarbabou)
-- Twitter: (https://twitter.com/twitterhandle)
-- LinkedIn: (https://www.linkedin.com/in/idrissa-makoba-b5b906205/)
+- GitHub: omarbabou
+- Twitter: @BabouOmar3
+- LinkedIn: Idrissa Makoba
 
 ## 🤝 Contributing
 
