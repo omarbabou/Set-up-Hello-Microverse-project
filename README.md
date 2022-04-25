@@ -1,6 +1,6 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Set-up-Hello-Microverse-project
 
 > In this project, we're implementing a "Hello Microverse" repository using basic HTML/CSS and install linters to test and clean up any errors in order to apply what we learned about HTML/CSS best practices and Linters as a Microverse student.
 
@@ -26,9 +26,9 @@
 
 👤 **Author1**
 
-- GitHub: omarbabou
-- Twitter: @BabouOmar3
-- LinkedIn: Idrissa Makoba
+- GitHub: [omarbabou], (https://github.com/omarbabou)
+- Twitter: [@BabouOmar3], (https://twitter.com/BabouOmar3/photo)
+- LinkedIn: [idrissa-makoba], (https://www.linkedin.com/in/idrissa-makoba-b5b906205/)
 
 ## 🤝 Contributing
 
