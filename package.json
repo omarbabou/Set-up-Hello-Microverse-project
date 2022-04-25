@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/omarbabou/Set-up-Hello-Microverse-project/issues"
   },
-  "homepage": "https://github.com/omarbabou/Set-up-Hello-Microverse-project#readme"
+  "homepage": "https://github.com/omarbabou/Set-up-Hello-Microverse-project#readme",
+  "devDependencies": {
+    "hint": "^6.1.11"
+  }
 }
