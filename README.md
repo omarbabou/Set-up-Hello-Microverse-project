@@ -20,15 +20,14 @@
 1. First, we must clone the repository locally in the terminal using the "git clone" command.
 2. Then create a new branch in the terminal.
 3. After creating a new branch, we will create the index.html file and then open it in the bowser.
-4. Finally do the test using the linters commands.
-
+4. finally do the test using the linters commands.
 ## Authors
 
-👤 **Author1**
+👤 Idrissa Omar
 
-- GitHub: omarbabou
-- Twitter: @BabouOmar3
-- LinkedIn: Idrissa Makoba
+- GitHub: [omarbabou], (https://github.com/omarbabou)
+- Twitter: [@BabouOmar3], (https://twitter.com/BabouOmar3/photo)
+- LinkedIn: [idrissa-makoba], (https://www.linkedin.com/in/idrissa-makoba-b5b906205/)
 
 ## 🤝 Contributing
 
